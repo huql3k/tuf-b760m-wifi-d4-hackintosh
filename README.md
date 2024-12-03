@@ -6,7 +6,7 @@
 - Sound card: ALC897
 
 ## Issue
-- AirDrop is not available
+- Wifi, AirDrop is not available
 
 ## Attention
 - V mode has been turned off
