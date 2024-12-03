@@ -9,4 +9,4 @@
 - AirDrop is not available
 
 ## Attention
--V mode has been turned off
+- V mode has been turned off
