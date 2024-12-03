@@ -1,4 +1,4 @@
-#
+### Opencore 1.0.1
 ## Specs
 - Mainboard: ASUS TUF GAMING B760M PLUS WiFi D4
 - CPU: I5-12400F
